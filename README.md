@@ -1,2 +1,2 @@
 # votingSystem
-Decentralised Etherium Based Voting System iimplemented in Solidity
+Decentralised Etherium Based Voting System implemented in Solidity
